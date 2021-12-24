@@ -1,4 +1,4 @@
-# Unstoppable Auctions V1
+# Unstoppable Auctions V2
 
 Smart contracts that allow the flexible auction of NFTs
 
